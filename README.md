@@ -8,6 +8,12 @@ If you do not read Chinese, add `--no-annotate`. You get plain English subtitles
 
 This is an Agent Skill in the open [Agent Skills](https://agentskills.io/specification) format. All of its work runs through one command-line script, so any agent that can run a shell command can use it.
 
+## Demo
+
+https://github.com/user-attachments/assets/5a1b8cde-f687-45eb-bff2-e73dd0bcb78e
+
+Demo footage: NASA / Johnson Space Center, "Crew-1 for All". No NASA endorsement implied.
+
 ## Why word by word
 
 Captions in the language being spoken are well studied in language learning. A 2013 meta-analysis of 18 studies found that learners who watched second-language video with captions in that language scored higher on listening comprehension and vocabulary tests than learners who watched without captions ([Montero Perez, Van Den Noortgate & Desmet, *System* 41(3)](https://doi.org/10.1016/j.system.2013.07.013)). The authors note that the number of studies was limited.
@@ -53,6 +59,7 @@ Times depend on the machine, the video and the service load.
 ## Known limits
 
 - Speech recognition can mishear names and jargon and can return lowercase text. Review the subtitles before you share the video.
+- Subtitles do not avoid text that is already in the video. In the demo, around 0:20, they cover the speaker's name caption. A later version will fix this.
 
 Requirements, settings and cost: [`references/prerequisites.md`](references/prerequisites.md). CLI steps and exit codes: [`SKILL.md`](SKILL.md).
 
