@@ -4,7 +4,7 @@ description: Burns word-by-word karaoke subtitles into an English-language video
 license: MIT (bundled font under SIL OFL 1.1, see assets/fonts/LICENSE.txt)
 compatibility: Linux or macOS with a shell, Python 3.9+, ffmpeg built with libass and libx264, yt-dlp for URL input, network access to Alibaba Cloud Model Studio (DashScope), and a DashScope API key (Beijing or Singapore region).
 metadata:
-  version: "1.2.0"
+  version: "1.2.1"
 ---
 
 # Karaoke subtitles

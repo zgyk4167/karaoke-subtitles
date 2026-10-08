@@ -10,7 +10,9 @@ This is an Agent Skill in the open [Agent Skills](https://agentskills.io/specifi
 
 ## Demo
 
-https://github.com/user-attachments/assets/5a1b8cde-f687-45eb-bff2-e73dd0bcb78e
+https://github.com/user-attachments/assets/400dd8be-942d-4e42-b8de-18cbf7d1aa1e
+
+The demo shows plain English karaoke: each word turns from white to green and briefly grows as it is spoken. It was rendered with `--no-annotate`, so it shows no glosses. Glosses are optional. Without that flag, harder terms also get a short gloss in blue after the word.
 
 Demo footage: NASA / Johnson Space Center, "Crew-1 for All". No NASA endorsement implied.
 

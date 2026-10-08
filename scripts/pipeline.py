@@ -494,7 +494,7 @@ Find everything that a Chinese learner at the CET-6 level (China's College Engli
 Do not mark common words a CET-6 (500) learner already knows. Do not mark spoken fillers (uh, like, you know).
 For each item, give only the meaning of that word or phrase in context, as a short Simplified Chinese gloss (2-8 Chinese characters). Never translate the whole sentence.
 "term" must be consecutive words that appear exactly as written in that line (no punctuation); it can be one word or a phrase. At most 3 items per line. Do not miss collocations and phrases; aim for about 1 item every 2-3 lines.
-Output only a JSON array, for example: [{"id": 12, "term": "greenfield", "zh": "全新项目"}]
+Output only a JSON array, for example: [{"id": 12, "term": "greenfield", "zh": "<Simplified Chinese gloss meaning 'brand-new project'>"}]
 
 Subtitles:
 """
